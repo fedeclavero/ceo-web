@@ -1,44 +1,44 @@
 # Brief Template
 
-Estructura de referencia para el brief que el CEO genera a partir de la conversación con el humano.
+Reference structure for the brief the CEO generates from the conversation with the human.
 
 ---
 
-## Proyecto
-[Nombre o descripción breve]
+## Project
+[Name or brief description]
 
-## Objetivo
-[Qué debe lograr este sitio web. Una frase clara.]
+## Objective
+[What this website should achieve. One clear sentence.]
 
-## Audiencia
-[Quién va a usar el sitio. Datos demográficos, nivel técnico, contexto.]
+## Audience
+[Who will use the site. Demographics, technical level, context.]
 
-## Plataforma de deploy
-[Cloudflare Pages (default) u otra]
+## Deploy Platform
+[Cloudflare Pages (default) or other]
 
-## Tono y personalidad
-[3-5 adjetivos que describan el mood: profesional, minimalista, juguetón, elegante, técnico, cálido...]
+## Tone and Personality
+[3-5 adjectives describing the mood: professional, minimal, playful, elegant, technical, warm...]
 
-## Idioma principal
+## Primary Language
 [es / en / etc.]
 
-## Funcionalidades must-have
-- [Funcionalidad 1]
-- [Funcionalidad 2]
+## Must-Have Features
+- [Feature 1]
+- [Feature 2]
 - ...
 
-## Funcionalidades nice-to-have
-- [Funcionalidad opcional]
+## Nice-to-Have Features
+- [Optional feature]
 - ...
 
-## Páginas principales
+## Main Pages
 - Home
 - About
 - Contact
-- [otras]
+- [others]
 
-## Restricciones especiales
-- [Cualquier limitación o requerimiento especial]
+## Special Constraints
+- [Any special limitation or requirement]
 
-## Notas adicionales
-[Información contextual, referencias a sitios que le gustan al humano, etc.]
+## Additional Notes
+[Context info, references to sites the human likes, etc.]

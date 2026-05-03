@@ -1,45 +1,45 @@
 # CEO-Web
 
-Orquestador multi-agente para desarrollo web completo. Usa un modelo empresarial jerarquico: CEO -> Gerentes -> Ingenieros especializados.
+Multi-agent orchestrator for full-stack web development. Uses a hierarchical business model: CEO -> Managers -> Specialized Engineers.
 
-## Instalacion
+## Installation
 
 ```bash
 npx skills add fedeclavero/ceo-web
 ```
 
-## Que hace
+## What It Does
 
-Construye sitios web completos delegando cada aspecto a un ingeniero especializado:
+Builds complete websites by delegating each aspect to a specialized engineer:
 
-- **Gerente de Planificacion** — convierte requisitos en un plan de accion
-- **Gerente de Revision** — auditoria final de calidad, seguridad y diseno
-- **Ingeniero de Despliegue** — investiga restricciones de la plataforma
-- **Ingeniero Creativo** — define diseno, colores, tipografia, mood
-- **Ingeniero de Assets** — busca y descarga imagenes, SVGs, fuentes
-- **Ingeniero Frontend** — construye HTML/CSS/JS vanilla
-- **Ingeniero Adaptativo** — responsive, dark/light mode, cross-browser
-- **Ingeniero Backend** — funcionalidad, APIs, logica
-- **Ingeniero SEO** — metatags, schema.org, optimizacion GEO
+- **Planning Manager** — converts requirements into an action plan
+- **Review Manager** — final quality, security, and design audit
+- **Deploy Engineer** — researches platform constraints
+- **Creative Engineer** — defines design, colors, typography, mood
+- **Assets Engineer** — searches and downloads images, SVGs, fonts
+- **Frontend Engineer** — builds vanilla HTML/CSS/JS
+- **Adaptive Engineer** — responsive, dark/light mode, cross-browser
+- **Backend Engineer** — functionality, APIs, logic
+- **SEO Engineer** — metatags, schema.org, GEO optimization
 
-## Flujo de trabajo
+## Workflow
 
 ```
-Humano -> CEO -> Gerente de Planificacion -> Ingenieros (secuencial)
-                  -> Gerente de Revision -> CEO (prueba) -> Humano
-                  ^--- iteraciones (max 4) ---|
+Human -> CEO -> Planning Manager -> Engineers (sequential)
+                -> Review Manager -> CEO (testing) -> Human
+                ^--- iterations (max 4) ---|
 ```
 
-## Requisitos previos
+## Prerequisites
 
-Algunos ingenieros necesitan skills adicionales. Si al ejecutar un ingeniero falta alguna, el CEO te lo indicara con el enlace para instalarla:
+Some engineers need additional skills. If an engineer is missing a skill, the CEO will tell you with the link to install it:
 
-| Ingeniero | Skills requeridas |
-|-----------|------------------|
-| Planificacion | `brainstorming`, `writing-plans` |
-| Creativo | `frontend-design`, `web-design-guidelines`, `ui-ux-pro-max` |
+| Engineer | Required Skills |
+|----------|----------------|
+| Planning | `brainstorming`, `writing-plans` |
+| Creative | `frontend-design`, `web-design-guidelines`, `ui-ux-pro-max` |
 | Assets | `agent-browser` |
 | Frontend | `frontend-design`, `web-design-guidelines`, `ui-ux-pro-max` |
-| Adaptativo | `adapt` |
-| Despliegue | `cloudflare` |
+| Adaptive | `adapt` |
+| Deploy | `cloudflare` |
 | SEO | `seo-geo`, `seo-audit` |
