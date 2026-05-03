@@ -1,6 +1,6 @@
 ---
 name: ceo-web
-description: Orquestador multi-agente para desarrollo web completo. Usa un modelo empresarial jerárquico: CEO → Gerentes → Ingenieros especializados. Construye sitios web completos con frontend, backend, diseño adaptativo, SEO y despliegue. Usar SIEMPRE que el usuario quiera crear un sitio web, landing page, aplicación web, portfolio, tienda online, dashboard o cualquier proyecto web. También cuando pida "hacer una página", "crear un sitio", "desarrollar web", "build a website", "diseñar web", o necesite un equipo completo de desarrollo.
+description: 'Orquestador multi-agente para desarrollo web completo. Usa un modelo empresarial jerárquico: CEO -> Gerentes -> Ingenieros especializados. Construye sitios web completos con frontend, backend, diseño adaptativo, SEO y despliegue. Usar SIEMPRE que el usuario quiera crear un sitio web, landing page, aplicación web, portfolio, tienda online, dashboard o cualquier proyecto web. También cuando pida "hacer una página", "crear un sitio", "desarrollar web", "build a website", "diseñar web", o necesite un equipo completo de desarrollo.'
 ---
 
 # CEO-Web
